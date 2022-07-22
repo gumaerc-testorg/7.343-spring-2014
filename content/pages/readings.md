@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5f8e7d4e-7d72-5233-7ddb-6fc69f21574a
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#1)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ No Readings
 
 Fundamentals of learning and memory: pre- and post-synaptic mechanisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#2)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Skrede, K. K., and Malthe-Sørenssen. "[Increased Resting and Evoked Release of 
 
 Mechanisms of learning: activity-regulated genes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#3)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#3" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Chowdhury, S., J. Shepherd, et al. "[Arc / Arg3.1 Interacts with the Endocytic M
 
 Forms of Learning and Memory I: Procedural and Episodic
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#4)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Schonewille, M., A. Belmeguenai, et al. "[Purkinje Cell-Specific Knockout of the
 
 Forms of Learning and Memory II: Non-Associative vs. Associative
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#5)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#5" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Marowsky, A., Y. Yanagawa, et al. "[A Specialized Subclass of Interneurons Media
 
 Lab visit – role of activity-regulated genes in experience-dependent plasticity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#6)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#6" %}}
 
 
 {{< tdclose >}}
@@ -161,7 +166,7 @@ No Readings
 
 Forms of Learning and Memory III: Drug Addiction and Perceptual Learning
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#7)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#7" %}}
 
 
 {{< tdclose >}}
@@ -185,7 +190,7 @@ Sale, A., R. De Pasquale, et al. "[Visual Perceptual Learning Induces Long-Term 
 
 Learning through others’ experience and observational learning
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#8)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#8" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Dias, B. G., and K. J. Ressler. "[Parental Olfactory Experience Influences Behav
 
 Synapse formation and stabilization
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#9)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#9" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Zito, K., V. Scheuss, et al. "[Rapid Functional Maturation of Nascent Dendritic 
 
 Experience-dependent plasticity: Visual Cortex
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#10)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#10" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Mrsic-Flogel, T. D., S. B. Hofer, et al. "[Homeostatic Regulation of Eye-Specifi
 
 Occlusion of synaptic plasticity by learning
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#11)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#11" %}}
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Whitlock, J. R., A. J. Heynen, et al. "[Learning Induces Long-Term Potentiation 
 
 Creating false memory, erasing specific memory
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#12)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#12" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +310,7 @@ Han, J. H., S. A. Kushner, et al. "[Selective Erasure of a Fear Memory](http://d
 
 Understanding a disease: Fragile X Syndrome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#13)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#13" %}}
 
 
 {{< tdclose >}}
@@ -329,7 +334,7 @@ Osterweil, E. K., S. C. Chuang, et al. "[Lovastatin Corrects Excess Protein Synt
 
 Oral presentations and course discussion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#14)
+{{% resource_link a2424c14-f8f8-4dfa-0289-77468d3d08f4 "See the Lecture Summary" "#14" %}}
 
 
 {{< tdclose >}}
