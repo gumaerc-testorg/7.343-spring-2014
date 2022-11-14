@@ -60,8 +60,9 @@
   },
   "learning_resource_types": [
     "Presentation Assignments",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "b6589bff-f095-4eb3-bf37-51f706f519f5",
+  "site_uid": "b5dc4c1a-da24-420b-bef8-6757a16b4e12",
   "title": "Course Metadata"
 }
