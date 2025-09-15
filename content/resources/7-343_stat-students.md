@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Image indicating course enrollment numbers.
-file: /courses/7-343-biological-bases-of-learning-and-memory-spring-2014/009a123128e7ea7de883783f74ae13b9_7-343_stat-students.png
+file: /ol-ocw-studio-app/courses/7-343-biological-bases-of-learning-and-memory-spring-2014/009a123128e7ea7de883783f74ae13b9_7-343_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
