@@ -13,7 +13,7 @@ uid: 91771e35-7a01-0447-cccb-5d0ad62592bb
 
 This page focuses on the course _7.343 Biological Bases of Learning and Memory_ as it was taught by Postdoctoral Associate Lauren Makuch and Research Scientist Jai Subramanian in Spring 2014.
 
-This course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. In these pass/fail seminars, students draw upon primary research literature to discuss and learn about current biological research in a highly interactive, small-group setting. This particular seminar focuses on the biological basis of learning and memory.
+This course is one of many {{% resource_link "fc88452d-476a-4063-82d7-f0c85c9f9d19" "Advanced Undergraduate Seminars" %}} offered by the Biology Department at MIT. In these pass/fail seminars, students draw upon primary research literature to discuss and learn about current biological research in a highly interactive, small-group setting. This particular seminar focuses on the biological basis of learning and memory.
 
 ## Course Outcomes
 
