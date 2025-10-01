@@ -113,7 +113,7 @@ Forms of Learning and Memory II: Non-Associative vs. Associative
 Lab visit — role of activity-regulated genes in experience-dependent plasticity
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "6" >}}{{< /anchor >}}We will visit the laboratory of [Professor Elly Nedivi](http://picower.mit.edu/elly-nedivi) in the [MIT Picower Institute for Learning and Memory](http://picower.mit.edu/ ). We will have a tour of the lab and discuss one of the lab's projects investigating the role of an activity-regulated gene called _cpg15_ in experience-dependent synaptic plasticity.
+{{< anchor "6" >}}{{< /anchor >}}We will visit the laboratory of {{% resource_link "f2bbffb5-0e33-4da2-8dea-e889cbdab849" "Professor Elly Nedivi" %}} in the [MIT Picower Institute for Learning and Memory](http://picower.mit.edu/ ). We will have a tour of the lab and discuss one of the lab's projects investigating the role of an activity-regulated gene called _cpg15_ in experience-dependent synaptic plasticity.
 {{< tdclose >}}
 
 {{< trclose >}}
